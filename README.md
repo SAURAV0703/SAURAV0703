@@ -17,16 +17,17 @@ I am Saurav Singh Negi, an engineering student deeply interested in Artificial I
 <table>
   <tr>
     <td>
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=SAURAV0703&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+      <img width="340" src="https://github-readme-stats.vercel.app/api?username=SAURAV0703&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
     </td>
     <td>
-      <img width="400" src="https://nirzak-streak-stats.vercel.app/?user=SAURAV0703&theme=dark&hide_border=false" />
+      <img width="340" src="https://nirzak-streak-stats.vercel.app/?user=SAURAV0703&theme=dark&hide_border=false" />
     </td>
     <td>
-      <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAURAV0703&theme=dark&hide_border=false&layout=compact" />
+      <img width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAURAV0703&theme=dark&hide_border=false&layout=compact" />
     </td>
   </tr>
 </table>
+
 
 
 
