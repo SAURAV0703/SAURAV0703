@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Saurav, an engineering student deeply interested in Artificial Intelligence and Machine Learning. I’m currently learning core ML algorithms, model training techniques, and exploring how AI can be applied to solve real-world problems.<br><br>I aim to build intelligent systems that are efficient, reliable, and impactful.<br><br>
+I am Saurav Singh Negi, an engineering student deeply interested in Artificial Intelligence and Machine Learning. I’m currently learning core ML algorithms, model training techniques, and exploring how AI can be applied to solve real-world problems.<br><br>I aim to build intelligent systems that are efficient, reliable, and impactful.<br><br>
 
 
 ## 🌐 Socials:
