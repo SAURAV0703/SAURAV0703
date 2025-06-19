@@ -20,12 +20,13 @@ I am Saurav Singh Negi, an engineering student deeply interested in Artificial I
 </p>
 
 
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SAURAV0703&theme=gruvbox&no-frame=false&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SAURAV0703&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
 </p>
+
+
 
 ---
 
