@@ -46,9 +46,9 @@ Hi, I am Saurav Singh Negi, an engineering student exploring the intersection of
   <img width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAURAV0703&layout=compact&theme=github_dark&hide_border=false" />
 </p>
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SAURAV0703&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAURAV0703&show_icons=true&theme=github_dark)
 
 ---
 
