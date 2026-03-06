@@ -41,9 +41,7 @@ Hi, I am Saurav Singh Negi, an engineering student exploring the intersection of
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ## 📊 GitHub Stats:
 <p>
-  <img width="350" src="https://github-readme-stats.vercel.app/api?username=SAURAV0703&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
   <img width="350" src="https://streak-stats.vercel.app/?user=SAURAV0703&theme=github-dark&hide_border=false" />
-  <img width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAURAV0703&layout=compact&theme=github_dark&hide_border=false" />
 </p>
 
 
